@@ -1,0 +1,45 @@
+h1{
+	color: rgb(0,0,300);
+}
+body{
+	background-color: rgb(100,500,25);
+	color: rgb(100,50,45);
+	margin: 15;
+	padding: 10px,5px,10px,5px
+	border-right: red solid;
+	letter-spacing: .1em;
+
+}
+h4{
+	color: rgb(200,0,0);
+	font-family: Georgia, serif;
+	font-size: 18px;
+
+}
+h3{
+	color: rgb(50,20,75);
+	font-family: Arial Black, Gadget, snas-serif;
+	font-size: 20px;
+	text-decoration: underline;
+}
+ul{
+	color: rgb(25,25,210);
+	font-size: 20px
+
+}
+p{
+	color: rgb(100,50,45);
+	font-family: Courier New, Courier, monospace;
+	font-size: 18px;
+}
+.main-1{
+	font-size: 15px;
+}
+
+.bullets{
+	list-style: square;
+}
+.main-pic{
+	float: right;
+	float: top
+}
