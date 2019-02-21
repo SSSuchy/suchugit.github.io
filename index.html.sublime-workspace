@@ -1,1 +1,312 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"main",
+				"main-header"
+			],
+			[
+				"M",
+				"Megaminx"
+			],
+			[
+				"me",
+				"Message"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"th",
+				"thead\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "h1{\n\tcolor: rgb(0,0,300);\n}\nbody{\n\tbackground-color: rgb(100,500,25);\n\tcolor: rgb(100,50,45);\n\tmargin: 15;\n\tpadding: 10px,5px,10px,5px\n\tborder-right: red solid;\n\tletter-spacing: .1em;\n\n}\nh4{\n\tcolor: rgb(200,0,0);\n\tfont-family: Georgia, serif;\n\tfont-size: 18px;\n\n}\nh3{\n\tcolor: rgb(50,20,75);\n\tfont-family: Arial Black, Gadget, snas-serif;\n\tfont-size: 20px;\n\ttext-decoration: underline;\n}\nul{\n\tcolor: rgb(25,25,210);\n\tfont-size: 20px\n\n}\np{\n\tcolor: rgb(100,50,45);\n\tfont-family: Courier New, Courier, monospace;\n\tfont-size: 18px;\n}\n.main-1{\n\tfont-size: 15px;\n}\n\n.bullets{\n\tlist-style: square;\n}\n.main-pic{\n\tfloat: right;\n\tfloat: top\n}",
+			"file": "CSS Styling/RS.css",
+			"file_size": 675,
+			"file_write_time": 131951748757677811,
+			"settings":
+			{
+				"buffer_size": 631,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3771,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/suchu/Desktop/KasaiYuki.github.io/index.html.html",
+		"/C/Users/suchu/Desktop/KasaiYuki.github.io/CSS Styling/RS.css.css",
+		"/C/Users/suchu/Desktop/Su HTML/skewb.html",
+		"/C/Users/suchu/Desktop/Su HTML/FIrst Code.html",
+		"/C/Users/suchu/Desktop/Su HTML/Ramanujan Webpage/CSS Styling/RS.css",
+		"/C/Users/suchu/Desktop/Su HTML/Ramanujan Webpage/Srinivasa Ramanujan.html.html",
+		"/C/Users/suchu/Desktop/Su HTML/Ramanujan Webpage/CSS Styling/RamanujanStyling.css.html",
+		"/C/Users/suchu/Desktop/Su HTML/Ramanujan Webpage/CSS Styling/RamanujanStyling.html",
+		"/C/Users/suchu/Desktop/Su HTML/Ramanujan Webpage/RamanujanStyle.css.html",
+		"/C/Users/suchu/Desktop/Su HTML/Ramanujan Webpage/Ramanujana.html",
+		"/C/Users/suchu/Desktop/Su HTML/Ramanujan Webpage/Srinivas.html.txt",
+		"/C/Users/suchu/Desktop/Su HTML/index.html.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CSS Styling/RS.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2883,
+								2883
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.html.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

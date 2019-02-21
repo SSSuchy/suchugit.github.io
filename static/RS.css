@@ -1,5 +1,6 @@
 h1{
 	color: rgb(0,0,300);
+	text-align: center
 }
 body{
 	background-color: rgb(100,500,25);
@@ -34,6 +35,7 @@ p{
 }
 .main-1{
 	font-size: 15px;
+	text-align: center
 }
 
 .bullets{
